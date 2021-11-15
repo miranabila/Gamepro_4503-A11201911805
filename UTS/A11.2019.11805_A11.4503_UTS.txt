@@ -2,6 +2,10 @@ Nama	: Mira Nabila
 Nim	: A11.2019.11805
 UTS Game Programming A11.4503
 
+*Link Gdrive untuk File Project Game :
+
+https://drive.google.com/drive/folders/1l37wdU22tSaHzzApCmRYeh_WRPpRHebQ?usp=sharing
+
 *Link Video Youtube Hasil UTS GamePro :
 
 https://youtu.be/qxpIDP0bGvE
