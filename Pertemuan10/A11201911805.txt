@@ -1,0 +1,39 @@
+Mira Nabila
+A11.2019.11805
+
+Komponen apa saja yang ada pada setiap objek primitif 3D ?
+
+1. Cube :
+- Transform
+- Cube (Mesh Filter)
+- Mesh Renderer
+- Box Collider
+- Material
+
+2. Sphere :
+- Transform
+- Sphere (Mesh Filter)
+- Mesh Renderer
+- Sphere Collider
+- Material
+
+3. Capsule :
+- Transform 
+- Capsule (Mesh Filter)
+- Mesh Renderer 
+- Capsule Collider
+- Material
+
+4. Quad:
+- Tansform 
+- Quad (Mesh Filter)
+- Mesh Renderer
+- Mesh Collider
+- Material
+
+5. Plane :
+- Transform
+- Plane (Mesh Filter)
+- Mesh Renderer
+- Mesh Collider
+- Material
